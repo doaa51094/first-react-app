@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/first-react-app%20%20/static/css/main.72682e99.css",
+    "main.js": "/first-react-app%20%20/static/js/main.71984722.js",
+    "static/js/787.7f320c1d.chunk.js": "/first-react-app%20%20/static/js/787.7f320c1d.chunk.js",
+    "static/media/fa-solid-900.ttf": "/first-react-app%20%20/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
+    "static/media/fa-brands-400.ttf": "/first-react-app%20%20/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
+    "static/media/fa-solid-900.woff2": "/first-react-app%20%20/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
+    "static/media/fa-brands-400.woff2": "/first-react-app%20%20/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
+    "static/media/fa-regular-400.ttf": "/first-react-app%20%20/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
+    "static/media/404.webp": "/first-react-app%20%20/static/media/404.f45972e01fb7e4dec918.webp",
+    "static/media/cabin.png": "/first-react-app%20%20/static/media/cabin.4417330275f78faa31c3.png",
+    "static/media/circus.png": "/first-react-app%20%20/static/media/circus.494a4a914b5471b41f3e.png",
+    "static/media/game.png": "/first-react-app%20%20/static/media/game.a940b57aa7bab2eacc52.png",
+    "static/media/fa-regular-400.woff2": "/first-react-app%20%20/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
+    "static/media/submarine.png": "/first-react-app%20%20/static/media/submarine.48c9704ca7f8ce901038.png",
+    "static/media/safe.png": "/first-react-app%20%20/static/media/safe.01792c0bdc342bf4bf9c.png",
+    "static/media/cake.png": "/first-react-app%20%20/static/media/cake.6554473016d32b343f02.png",
+    "static/media/avataaars (1).svg": "/first-react-app%20%20/static/media/avataaars (1).aa9aff02ddd0ef36a1724ecef4133df9.svg",
+    "static/media/fa-v4compatibility.ttf": "/first-react-app%20%20/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
+    "static/media/fa-v4compatibility.woff2": "/first-react-app%20%20/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
+    "static/media/logo.svg": "/first-react-app%20%20/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/first-react-app%20%20/index.html",
+    "main.72682e99.css.map": "/first-react-app%20%20/static/css/main.72682e99.css.map",
+    "main.71984722.js.map": "/first-react-app%20%20/static/js/main.71984722.js.map",
+    "787.7f320c1d.chunk.js.map": "/first-react-app%20%20/static/js/787.7f320c1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72682e99.css",
+    "static/js/main.71984722.js"
+  ]
+}
